@@ -1,4 +1,1 @@
 lx823
-from autograder_practice import
-_global=global()
-question= global
